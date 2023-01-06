@@ -1,0 +1,17 @@
+{
+  "name": "alfred-time-difference",
+  "version": "1.0.0",
+  "description": "an alfred workflow to calculate time difference",
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "keywords": [],
+  "author": "owfdr",
+  "license": "MIT",
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.1",
+    "@types/node": "^18.11.18",
+    "tsc": "^2.0.4",
+    "typescript": "^4.9.4"
+  }
+}
