@@ -45,3 +45,9 @@ Result will be displayed something like this:
 ## License
 
 MIT
+
+## 🧑‍💻 Other Apps
+
+Check out:
+
+- [Our World](https://ourworld.center/apps) (Official Website)
