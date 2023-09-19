@@ -2,7 +2,7 @@
 
 # Alfred Time Difference
 
-This workflow helps you to calculate the time difference between two time.
+This workflow helps you to calculate the time difference between two times.
 
 ## Download
 
